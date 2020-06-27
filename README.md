@@ -1,16 +1,20 @@
-# animationbook
+# Animationbook
+An animation book is a collection of all the flutter animation widgets. Learning the animation in a herarchical way makes us easy to understand the whole structure and wouldn't create any confusion.
 
-A new Flutter application.
+## Screenshots
+<img height=500 width=250 src="https://github.com/ShashidharNagaral/animation_book/blob/master/screenshots/animationbook.gif" hspace=100/>
 
-## Getting Started
+[1.1]: https://image0.flaticon.com/icons/png/32/61/61109.png (linkedin icon)
+[2.1]: https://i.imgur.com/FTfZyuk.png (instagram icon)
+[3.1]: http://i.imgur.com/0o48UoR.png (github icon)
+[4.1]: http://i.imgur.com/tXSoThF.png (twitter icon)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[1]: https://www.linkedin.com/in/shashnagaral/
+[2]: https://www.instagram.com/shashnagaral/
+[3]: https://github.com/ShashidharNagaral
+[4]: https://twitter.com/shashnagaral
+## Follow me on
+[![linkedin][1.1]][1] &nbsp;
+[![instagram][2.1]][2] &nbsp;
+[![github][3.1]][3] &nbsp;
+[![twitter][4.1]][4]
