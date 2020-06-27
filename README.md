@@ -1,5 +1,5 @@
 # Animationbook
-An animation book is a collection of all the flutter animation widgets. Learning the animation in a herarchical way makes us easy to understand the whole structure and wouldn't create any confusion.
+An animation book is a collection of all the flutter animation widgets. Learning the animation in a hierarchical way makes us easy to understand the whole structure and wouldn't create any confusion.
 
 ## Screenshots
 <img height=500 width=250 src="https://github.com/ShashidharNagaral/animation_book/blob/master/screenshots/animationbook.gif" hspace=100/>
